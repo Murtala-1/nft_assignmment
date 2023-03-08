@@ -35,7 +35,7 @@ export default function NFTsList() {
       <center>
         <h1 className="display-4">NFT Viewer</h1>
         <div className=" m-4">
-          <Label htmlFor="wallet-owner">&nbsp; Wallet address: &nbsp;</Label>
+          <Label htmlFor="wallet-owner">&nbsp; Wallet Owner: &nbsp;</Label>
           <Input
             id="wallet-owner"
             type="text"
